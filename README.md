@@ -27,8 +27,7 @@
 - `python Xyz.py`
 
 # Results
-![img](https://ibb.co/N2J6K46w)
-
+<img src="https://github.com/YounisXyz/AutoShare/blob/main/image/Picsart_26-01-03_08-29-16-335.jpg" />
 
 
  ___This Tools is Free___</br>
