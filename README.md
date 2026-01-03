@@ -27,7 +27,7 @@
 - `python Xyz.py`
 
 # Results
-![img](https://ibb.co/N2J6K46w/New-Project-3-501912-A.png)
+![img](https://ibb.co/N2J6K46w)
 
 
 
