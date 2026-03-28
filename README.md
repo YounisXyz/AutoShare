@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/github/stars/YounisXyz?style=flat"/>
 </p>
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/92494445455?text=hey+YounisXyz+im+from+safeum) <br><br>
+[![]
 
 
-+ Update v1.0
++ Update v2.0
 
 ## <b>installation</b>
 
@@ -24,14 +24,15 @@
 - `rm -rf AutoShare`
 - `git clone --depth=1 https://github.com/YounisXyz/AutoShare`
 - `cd AutoShare`
-- `python Xyz.py`
+- `chmod 777 Xyz`
+- `./Xyz`
 
 # Results
 <img src="https://github.com/YounisXyz/AutoShare/blob/main/image/Picsart_26-01-03_08-29-16-335.jpg" />
 
 
  ___This Tools is Free___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-𝙔𝙊𝙐𝙉𝙄𝙎.𝙓𝘿-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923194999455)
+ 
 
 
 
